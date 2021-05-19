@@ -4,7 +4,7 @@
 - 💞️ Maybe I'm looking to collaborate on a project
 - 📫 How to reach me: 
 - E-mail: callebecruz@hotmail.com 
-- Discord:CaLegends#7188
+- Discord: CaLegends#7188
 
 <!---
 CallebeCruz/CallebeCruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
