@@ -3,7 +3,6 @@
 - 🌱 I’m currently studying Electrical Engineering and for that I am looking for knowledge about programming to complement my studies...
 - 💞️ Maybe I'm looking to collaborate on a project
 - 📫 How to reach me: 
-- E-mail: callebecruz@hotmail.com 
 - Discord: CaLegends#7188
 
 <!---
